@@ -1,0 +1,22 @@
+{
+    "bot": {
+        "token": "",
+        "id": "",
+        "mongooseConnectionString": ""
+    },
+
+    "prefix":"/",
+
+    "production_server": "",
+
+    "colors": {
+        "discord_blurple": "#5865F2",
+        "discord_green": "#57F287",
+        "discord_yellow": "#FEE75C",
+        "discord_red": "#ED4245",
+        "discord_purple": "#6a0dad",
+        "discord_grey": "#99AAB5",
+
+        "embed": "#EBA54C"
+    }
+}
